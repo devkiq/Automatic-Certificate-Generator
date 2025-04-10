@@ -1,0 +1,11 @@
+.venv
+.env
+
+certificados_curso/*
+!certificados_curso/.gitkeep
+
+certificados_gerados/*
+!certificados_gerados/.gitkeep
+
+planilha_alunos/*
+!planilha_alunos/.gitkeep
